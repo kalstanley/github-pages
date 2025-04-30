@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Basanta MGT</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="logo">
+      <img src="kile-cloud-logo.png" alt="Kile Cloud Logo" />
+    </div>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>Welcome to Basanta MGT</h1>
+    <p>Your trusted partner for innovative solutions</p>
+    <button>Learn More</button>
+  </section>
+
+  <!-- About Section -->
+  <section class="about">
+    <h2>About Us</h2>
+    <p>
+      Basanta MGT is a leading provider of innovative solutions, dedicated to helping businesses thrive in a rapidly changing world.
+    </p>
+    <img src="about-image.png" alt="About Image" />
+  </section>
+
+  <!-- Services Section -->
+  <section class="services">
+    <h2>Our Services</h2>
+    <div class="services-grid">
+      <div class="service">
+        <img src="cloud-computing-icon.png" alt="Cloud Management" />
+        <h3>Cloud Management</h3>
+        <p>Expert cloud management services to optimize your infrastructure.</p>
+      </div>
+      <div class="service">
+        <img src="cyber-security-icon.png" alt="Cybersecurity Solutions" />
+        <h3>Cybersecurity Solutions</h3>
+        <p>Protect your business from cyber threats with our comprehensive security solutions.</p>
+      </div>
+      <div class="service">
+        <img src="it-consulting-icon.png" alt="IT Consulting" />
+        <h3>IT Consulting</h3>
+        <p>Expert IT consulting services to help you make informed technology decisions.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Call-to-Action -->
+  <section class="cta">
+    <h2>Get Started Today!</h2>
+    <p>
+      Take the first step towards transforming your business. Contact us to learn more about our innovative solutions.
+    </p>
+    <button>Contact Us</button>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Basanta MGT. All rights reserved.</p>
+    <ul class="social-links">
+      <li><a href="#">Facebook</a></li>
+      <li><a href="#">+256759373847</a></li>
+      <li><a href="#">LinkedIn</a></li>
+    </ul>
+  </footer>
+</body>
+</html
